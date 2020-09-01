@@ -1,5 +1,8 @@
 #### > whoami  
-Hi! I'm nanocloudx.
+Hi! I'm nanocloudx.  
+
+#### > pwd
+I'm Web developer(Front-end) in Tokyo.
 
 ![nyancat](https://wwww.dev/images/nyancat.png)
 
