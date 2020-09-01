@@ -5,7 +5,6 @@ More information >>> [wwww.dev](https://wwww.dev/)
 
 ![nyancat](https://wwww.dev/images/nyancat.png)
 
-### Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nanocloudx">
 </p>
