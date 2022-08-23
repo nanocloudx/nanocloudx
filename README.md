@@ -18,6 +18,9 @@ Web Application Developer in Tokyo.
 - Language
   - Japanese: Native
   - English: Understand a little
+- Like
+  - Anime, Boardgame, Poker, Golf, Mahjong, Darts, Driving, etc
+  - and all Kawaii things
 
 ## Skills
 - TypeScript
@@ -42,7 +45,7 @@ Web Application Developer in Tokyo.
 - 2012-2018
   - DWANGO Co., Ltd.
     - NicoNicoDouga development
-    - JavaScript, ActionScript3, PHP, Java, etc
+    - JavaScript, ActionScript3, PHP, Java, Linux, etc
 
 ## About job offering
 - I'm not thinking of changing jobs
