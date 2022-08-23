@@ -19,7 +19,7 @@ Web Application Developer in Tokyo.
   - Japanese: Native
   - English: Understand a little
 - Like
-  - Anime, Boardgame, Poker, Golf, Mahjong, Darts, Driving, Photographyetc
+  - Anime, Boardgame, Poker, Golf, Mahjong, Darts, Driving, Photography, etc
   - and all Kawaii things
 
 ## Skills
