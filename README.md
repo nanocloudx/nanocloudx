@@ -10,6 +10,8 @@ Web Application Developer in Tokyo.
   - https://wwww.dev
 - Twitter
   - https://twitter.com/nanocloudx
+- Mail
+  - nanocloudx@gmail.com
   
 ## Basic Info
 - Born in 1990
