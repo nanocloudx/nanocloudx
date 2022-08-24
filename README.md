@@ -53,3 +53,4 @@ Web Application Developer in Tokyo.
   - Offer amount over 100,000 USD annual salary
   - United Nations or International Organizations Contributing to Peace
   - Businesses that contribute to otaku culture for the world
+  - Work that makes more people happy
