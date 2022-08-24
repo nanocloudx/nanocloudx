@@ -50,7 +50,7 @@ Web Application Developer in Tokyo.
 ## About job offering
 - I'm not thinking of changing jobs
 - But, I would consider changing jobs immediately if offered the following
-  - Offer amount over 100,000 USD annual salary
+  - Offer amount over 100,000 USD annual salary (required)
   - United Nations or International Organizations Contributing to Peace
   - Businesses that contribute to otaku culture for the world
   - Work that makes more people happy
