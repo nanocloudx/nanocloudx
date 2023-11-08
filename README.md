@@ -2,7 +2,7 @@
 Hi! I'm nanocloudx(なのくろ).  
 Web Application Developer in Tokyo.  
 
-![nyancat](https://wwww.dev/images/nyancat.png)
+<img src="[drawing.jpg](https://wwww.dev/images/welcome_kimono.webp)" width="500" alt="nanocloudx" />
 
 ## Follow me!
 
