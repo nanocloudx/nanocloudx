@@ -14,7 +14,7 @@ Web Application Developer in Tokyo.
   - nanocloudx@gmail.com
   
 ## Basic Info
-- Born in 1990
+- Born in August 1990
 - Language
   - Japanese: Native
   - English: Understand a little
@@ -26,14 +26,15 @@ Web Application Developer in Tokyo.
 - TypeScript
 - Next.js
 - React.js
-- CSS Modules(SCSS)
+- CSS Modules(SCSS) / Tailwind
 - Various other associated knowledge
 
 ## Career
 - 2022-present
   - Delight Ventures, Inc.
     - Technical support for startup entrepreneurs
-    - TypeScript, Next.js, React.js, etc
+    - Responsible for all development in the early years of several startups
+    - TypeScript, Next.js, React.js, Google Cloud, etc
 - 2021-2022
   - ABEJA, Inc.
     - AI-based retail SaaS development
@@ -51,6 +52,5 @@ Web Application Developer in Tokyo.
 - I'm not thinking of changing jobs
 - But, I would consider changing jobs immediately if offered the following
   - Offer amount over 100,000 USD annual salary (required)
-  - United Nations or International Organizations Contributing to Peace
   - Businesses that contribute to otaku culture for the world
-  - Work that makes more people happy
+  - Work that makes more people delight
