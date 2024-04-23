@@ -37,7 +37,7 @@ Web Application Developer in Tokyo.
     - TypeScript, Next.js, React.js, Google Cloud, AWS, Postgres, etc
 - 2021-2022
   - ABEJA, Inc.
-    - AI-based retail SaaS development
+    - AI-based SaaS development
     - TypeScript, Next.js, React.js, Vue.js, etc
 - 2018-2020
   - DeNA Co., Ltd.
