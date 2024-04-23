@@ -34,7 +34,7 @@ Web Application Developer in Tokyo.
   - Delight Ventures, Inc.
     - Technical support for startup entrepreneurs
     - Responsible for all development in the early years of several startups
-    - TypeScript, Next.js, React.js, Google Cloud, etc
+    - TypeScript, Next.js, React.js, Google Cloud, AWS, Postgres, etc
 - 2021-2022
   - ABEJA, Inc.
     - AI-based retail SaaS development
