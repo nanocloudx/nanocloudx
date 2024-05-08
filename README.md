@@ -17,7 +17,7 @@ Web Application Developer in Tokyo.
 - Born in August 1990
 - Language
   - Japanese: Native
-  - English: Understand a little
+  - English: Understand a little bit
 - Like
   - Anime, Boardgame, Poker, Golf, Mahjong, Darts, Driving, Photography, etc
   - and all Kawaii things
