@@ -54,3 +54,6 @@ Web Application Developer in Tokyo.
   - Offer amount over 100,000 USD annual salary (required)
   - Businesses that contribute to otaku culture for the world
   - Work that makes more people delight
+- Contact
+  - I will do my best to respond to direct contact from a company's HR
+  - I am ignoring contact from the recruitment agent (Forgive me as there are too many)
