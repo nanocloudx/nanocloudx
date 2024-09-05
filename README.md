@@ -2,13 +2,13 @@
 Hi! I'm nanocloudx(なのくろ).  
 Web Application Developer in Tokyo.  
 
-<img src="https://wwww.dev/images/welcome_kimono.webp" style="width:300px;" alt="nanocloudx" />
+<img src="https://wwww.dev/images/nyancat.gif" style="width:300px;" />
 
 ## Follow me!
 
 - Website
   - https://wwww.dev
-- Twitter
+- X(Twitter)
   - https://twitter.com/nanocloudx
 - Mail
   - nanocloudx@gmail.com
@@ -25,26 +25,29 @@ Web Application Developer in Tokyo.
 ## Skills
 - TypeScript
 - Next.js
-- React.js
-- CSS Modules(SCSS) / Tailwind
-- Various other associated knowledge
+- React
+- CSS Modules(SCSS) / Chakra UI / Tailwind
+- Google Cloud / Vercel
+- PostgreSQL / Redis
+- GraphQL / RESTful
+- In other words, general knowledge of web development.
 
 ## Career
 - 2022-present
-  - Delight Ventures, Inc.
+  - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
     - Technical support for startup entrepreneurs
     - Responsible for all development in the early years of several startups
-    - TypeScript, Next.js, React.js, Google Cloud, AWS, Postgres, etc
+    - Use whatever technology is available
 - 2021-2022
-  - ABEJA, Inc.
+  - [ABEJA, Inc.](https://www.abejainc.com/en)
     - AI-based SaaS development
-    - TypeScript, Next.js, React.js, Vue.js, etc
+    - TypeScript, Next.js, React, Vue.js, etc
 - 2018-2020
-  - DeNA Co., Ltd.
+  - [DeNA Co., Ltd.](https://dena.com/)
     - Entertainment services development
-    - TypeScript, React.js, Vue.js, etc
+    - TypeScript, React, Vue.js, etc
 - 2012-2018
-  - DWANGO Co., Ltd.
+  - [DWANGO Co., Ltd.](https://en.dwango.co.jp/)
     - NicoNicoDouga development
     - JavaScript, ActionScript3, PHP, Java, Linux, etc
 
