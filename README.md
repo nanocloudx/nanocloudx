@@ -15,22 +15,22 @@ Web Application Developer in Tokyo.
   
 ## Basic Info
 - Born in August 1990
+- Live in Akihabara, Tokyo
 - Language
   - Japanese: Native
   - English: Understand a little bit
 - Like
   - Anime, Boardgame, Poker, Golf, Mahjong, Darts, Driving, Photography, etc
-  - and all Kawaii things
+  - and ALL kawaii(cute) things!
 
-## Skills
-- TypeScript
-- Next.js
-- React
-- CSS Modules(SCSS) / Chakra UI / Tailwind
+## Skills & Love
+- TypeScript / React / Next.js
+- CSS Modules(SCSS) / Chakra UI
 - Google Cloud / Vercel
 - PostgreSQL / Redis
 - GraphQL / RESTful
-- In other words, general knowledge of web development.
+- IntelliJ IDEA / VSCode / vim
+- In other words, general knowledge of web development
 
 ## Career
 - 2022-present
@@ -59,4 +59,4 @@ Web Application Developer in Tokyo.
   - Work that makes more people delight
 - Contact
   - I will do my best to respond to direct contact from a company's HR
-  - I am ignoring contact from the recruitment agent (Forgive me as there are too many)
+  - I might ignore contact from a recruitment agent
