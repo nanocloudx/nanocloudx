@@ -25,7 +25,7 @@ Web Application Developer in Tokyo.
 
 ## Skills & Love
 - TypeScript / React / Next.js
-- CSS Modules(SCSS) / Chakra UI
+- CSS Modules(SCSS) / Chakra UI / Tailwind
 - Google Cloud / Vercel
 - PostgreSQL / Redis
 - GraphQL / RESTful
@@ -56,7 +56,7 @@ Web Application Developer in Tokyo.
 - But, I would consider changing jobs immediately if offered the following
   - Offer amount over 100,000 USD annual salary (required)
   - Businesses that contribute to otaku culture for the world
-  - Work that makes more people delight
+  - Work that makes more people delight!
 - Contact
   - I will do my best to respond to direct contact from a company's HR
   - I might ignore contact from a recruitment agent
