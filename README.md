@@ -38,15 +38,15 @@ Web Application Developer in Tokyo.
     - Technical support for startup entrepreneurs
     - Responsible for all development in the early years of several startups
     - Use whatever technology is available
-- 2021-2022
+- 2020-2021
   - [ABEJA, Inc.](https://www.abejainc.com/en)
     - AI-based SaaS development
     - TypeScript, Next.js, React, Vue.js, etc
-- 2018-2020
+- 2018-2019
   - [DeNA Co., Ltd.](https://dena.com/)
     - Entertainment services development
     - TypeScript, React, Vue.js, etc
-- 2012-2018
+- 2012-2017
   - [DWANGO Co., Ltd.](https://en.dwango.co.jp/)
     - NicoNicoDouga development
     - JavaScript, ActionScript3, PHP, Java, Linux, etc
