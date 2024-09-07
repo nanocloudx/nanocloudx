@@ -37,6 +37,7 @@ Web Application Developer in Tokyo.
   - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
     - Technical support for startup entrepreneurs
     - Responsible for all development in the early years of several startups
+      - I have supported the launch of 3 startup companies
     - Use whatever technology is available
 - 2020-2021
   - [ABEJA, Inc.](https://www.abejainc.com/en)
@@ -44,7 +45,7 @@ Web Application Developer in Tokyo.
     - TypeScript, Next.js, React, Vue.js, etc
 - 2018-2019
   - [DeNA Co., Ltd.](https://dena.com/)
-    - Entertainment services development
+    - Entertainment & Healthcare services development
     - TypeScript, React, Vue.js, etc
 - 2012-2017
   - [DWANGO Co., Ltd.](https://en.dwango.co.jp/)
