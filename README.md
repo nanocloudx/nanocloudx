@@ -37,7 +37,7 @@ Web Application Developer in Tokyo.
   - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
     - Technical support for startup entrepreneurs
       - Responsible for all development in the early years startups
-      - I have supported the launch of 3 startup companies to date
+      - I supported the launch of 3 startups and led initial product development
     - Use whatever technology is available
 - 2020-2021
   - [ABEJA, Inc.](https://www.abejainc.com/en)
