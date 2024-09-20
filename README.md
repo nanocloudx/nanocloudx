@@ -33,18 +33,22 @@ Web Application Developer in Tokyo.
 - In other words, general knowledge of web development
 
 ## Career
-- 2022-present [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
+- 2022-present
+  - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
   - Technical support for startup entrepreneurs
     - Responsible for all development in the early years startups
     - I supported the launch of 3 startups and led initial product development
   - Use whatever technology is available
-- 2020-2021 [ABEJA, Inc.](https://www.abejainc.com/en)
+- 2020-2021
+  - [ABEJA, Inc.](https://www.abejainc.com/en)
   - AI-based SaaS development
   - TypeScript, Next.js, React, Vue.js, etc
-- 2018-2019 [DeNA Co., Ltd.](https://dena.com/)
+- 2018-2019
+  - [DeNA Co., Ltd.](https://dena.com/)
   - Entertainment & Healthcare services development
   - TypeScript, React, Vue.js, etc
-- 2012-2017 [DWANGO Co., Ltd.](https://en.dwango.co.jp/)
+- 2012-2017
+  - [DWANGO Co., Ltd.](https://en.dwango.co.jp/)
   - NicoNicoDouga development
   - JavaScript, ActionScript3, PHP, Java, Linux, etc
 
