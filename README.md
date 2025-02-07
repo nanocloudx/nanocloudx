@@ -4,15 +4,18 @@ Web Application Developer in Tokyo.
 
 <img src="https://wwww.dev/images/nyancat.gif" style="width:300px;" />
 
-## Follow me!
+## Open Source Activities
+- Participating in the **"Digital Democracy 2030"** project.  
+  - For more details, please check [HERE](https://note.com/annotakahiro24/n/na0e296bc30b8).
 
+## Follow me!
 - Website
   - https://wwww.dev
 - X(Twitter)
-  - https://twitter.com/nanocloudx
+  - https://x.com/nanocloudx
 - Mail
   - nanocloudx@gmail.com
-  
+
 ## Basic Info
 - Born in August 1990
 - Live in Akihabara, Tokyo
@@ -30,7 +33,7 @@ Web Application Developer in Tokyo.
 - PostgreSQL / Redis
 - GraphQL / RESTful
 - IntelliJ IDEA / VSCode / vim
-- In other words, general knowledge of web development
+- In other words, general knowledge of web development.
 
 ## Career
 - 2022-present
