@@ -55,11 +55,15 @@ Web Application Developer in Tokyo.
   - JavaScript, ActionScript3, PHP, Java, Linux, etc
 
 ## About job offering
-- I'm not thinking of changing jobs
-- But, I would consider changing jobs immediately if offered the following
-  - Offer amount over 100,000 USD annual salary (required)
-  - Businesses that contribute to otaku culture for the world
-  - Work that makes more people delight!
+- Full-time employee
+  - I'm not thinking of changing jobs
+  - But, I would consider changing jobs immediately if offered the following
+    - Offer amount over 100,000 USD annual salary
+    - Businesses that contribute to otaku culture for the world
+    - Work that makes more people delight!
+- Short-term Contract Work
+  - Depending on the timing, I may be available
+  - Please make an offer at an estimated 10,000 JPY per hour
 - Contact
   - I will do my best to respond to direct contact from a company's HR
-  - I might ignore contact from a recruitment agent
+  - Apologies, but I generally do not respond to contact from recruitment agents
