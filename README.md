@@ -6,7 +6,7 @@ Web Application Developer in Tokyo.
 
 ## Open Source Activities
 - Participating in the **"Digital Democracy 2030"** project.  
-  - For more details, please check [HERE](https://note.com/annotakahiro24/n/na0e296bc30b8).
+  - For more details, please check [HERE](https://dd2030.org).
 
 ## Follow me!
 - Website
@@ -36,6 +36,10 @@ Web Application Developer in Tokyo.
 - In other words, general knowledge of web development.
 
 ## Career
+- 2025-present
+  - [platinumcloud LLC](https://platinumcloud.net)
+  - Chief Executive Officer
+    - Empowering brandnew kawaii with technology
 - 2022-present
   - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
   - Technical support for startup entrepreneurs
