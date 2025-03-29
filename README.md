@@ -39,7 +39,7 @@ Web Application Developer in Tokyo.
 - 2025-present
   - [platinumcloud LLC](https://platinumcloud.net)
   - Chief Executive Officer
-    - Empowering brandnew kawaii with technology
+    - Blooming brandnew kawaii with technology
 - 2022-present
   - [Delight Ventures, Inc.](https://www.delight-ventures.com/en/)
   - Technical support for startup entrepreneurs
