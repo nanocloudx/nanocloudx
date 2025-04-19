@@ -11,8 +11,6 @@ Web Application Developer in Tokyo.
 ## Follow me!
 - Website
   - https://wwww.dev
-- X(Twitter)
-  - https://x.com/nanocloudx
 - Mail
   - nanocloudx@gmail.com
 
