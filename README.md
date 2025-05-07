@@ -5,8 +5,7 @@ Web Application Developer in Tokyo.
 <img src="https://wwww.dev/images/nyancat.gif" style="width:300px;" />
 
 ## Basic Info
-- Born in August 1990
-- Live in Akihabara, Tokyo
+- Live in Tokyo, Japan
 - Language
   - Japanese: Native
   - English: Understand a little bit
