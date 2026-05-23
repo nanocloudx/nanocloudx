@@ -1,7 +1,7 @@
 # whoami  
 Hi! I'm nanocloudx(なのくろ).  
-Web Application Developer in Tokyo.  
-Member of the House of Representatives of Japan.  
+Web Application Developer in Tokyo🗼  
+Member of the House of Representatives of Japan🇯🇵  
 
 <img src="https://wwww.dev/images/nyancat.gif" style="width:300px;" />
 
@@ -12,7 +12,7 @@ Member of the House of Representatives of Japan.
   - English: Understand a little bit
 - Like
   - Anime, Boardgame, Golf, Driving, Photography, etc
-  - and ALL kawaii(cute) things!
+  - and ALL kawaii(cute) things!🍭🍬🍩🍫🍰
 
 ## Skills & Love
 - TypeScript / React / Next.js
