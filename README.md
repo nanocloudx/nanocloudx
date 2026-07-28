@@ -1,7 +1,7 @@
 # whoami  
 Hi! I'm nanocloudx(なのくろ).  
 Web Application Developer in Tokyo🗼  
-Member of the House of Representatives of Japan🇯🇵  
+Member of the House of Representatives, Japan🇯🇵  
 
 <img src="https://wwww.dev/images/nyancat.gif" style="width:300px;" />
 
